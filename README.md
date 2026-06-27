@@ -1,1 +1,1 @@
-#Refueler is a productivity and motivation app built for students who want to stop wasting time on their phones and start pursuing their goals. It combines distraction blocking, focus tools, and motivational systems to help users lock in and build discipline.
+Refueler is a productivity and motivation app built for students who want to stop wasting time on their phones and start pursuing their goals. It combines distraction blocking, focus tools, and motivational systems to help users lock in and build discipline.
