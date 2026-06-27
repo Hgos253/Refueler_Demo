@@ -1,12 +1,8 @@
 # 🔥 Refueler
 
-<p align="center">
-  <strong>Lock In. Refuel. Achieve Your Dreams.</strong>
-</p>
+<strong>Lock In. Refuel. Achieve Your Dreams.</strong>
 
-<p align="center">
-  A dream-driven focus and growth companion that helps students and ambitious people stop scrolling, stay disciplined, and turn goals into daily action.
-</p>
+A dream-driven focus and growth companion that helps students and ambitious people stop scrolling, stay disciplined, and turn goals into daily action.
 
 ---
 
