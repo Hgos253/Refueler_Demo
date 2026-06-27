@@ -8,13 +8,6 @@
   A dream-driven focus and growth companion that helps students and ambitious people stop scrolling, stay disciplined, and turn goals into daily action.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20Development-orange" />
-  <img src="https://img.shields.io/badge/Platform-iOS-black" />
-  <img src="https://img.shields.io/badge/Focus-App%20Blocking-red" />
-  <img src="https://img.shields.io/badge/Mission-Dreams%20Into%20Action-yellow" />
-</p>
-
 ---
 
 ## 🌟 What Is Refueler?
